@@ -1,0 +1,11 @@
+export const FIRST_PAGE = 1;
+export const PLUS_PAGE_INDEX = 1;
+export const LIFT_UP_TOP = 0;
+export const TRIM_NUMBER = 5;
+export const NUMBER_OF_ITEMS = 5;
+export const LOADING_SIZE = 80;
+export const INITIAL_NUMBER = 0;
+export const COUNT_UP_DURATION = 1;
+export const INITIAL_QUANTITY = 1;
+export const UP_TO_THREE = 3;
+export const TIME_OUT = 1500;
